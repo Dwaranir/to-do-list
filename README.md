@@ -1,1 +1,1 @@
-Deployed version: yp-to-do-list.netlify.app
+Deployed version: https://yp-to-do-list.netlify.app/
